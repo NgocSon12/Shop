@@ -13,7 +13,7 @@
 <channel>
 	<title>Pocket Knife &#8211; Oak &#8211; My wordpress</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-category/shop/pocket-knife-oak-shop/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ngocson12.github.io/Shop</link>
+	<link>http://ngocson12.github.io/Shop</link>
 	<description></description>
 	<lastBuildDate>Wed, 12 Oct 2022 03:33:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Plastic Hue Tritan Water Bottle</title>
-		<link>https://ngocson12.github.io/Shop/product/form-chair-normann-black-copy/</link>
-					<comments>https://ngocson12.github.io/Shop/product/form-chair-normann-black-copy/#respond</comments>
+		<link>http://ngocson12.github.io/Shop/product/form-chair-normann-black-copy/</link>
+					<comments>http://ngocson12.github.io/Shop/product/form-chair-normann-black-copy/#respond</comments>
 		
 		<dc:creator><![CDATA[TruongNgocSon]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 03:15:24 +0000</pubDate>
-				<guid isPermaLink="false">https://ngocson12.github.io/Shop/?post_type=product&#038;p=558</guid>
+				<guid isPermaLink="false">http://ngocson12.github.io/Shop/?post_type=product&#038;p=558</guid>
 
 					<description><![CDATA[<div class="product attribute overview">
 <div class="value">
@@ -97,7 +97,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ngocson12.github.io/Shop/product/form-chair-normann-black-copy/feed/</wfw:commentRss>
+					<wfw:commentRss>http://ngocson12.github.io/Shop/product/form-chair-normann-black-copy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

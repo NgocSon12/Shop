@@ -12,13 +12,13 @@
 	<title>
 	Comments on: Chào tất cả mọi người!	</title>
 	<atom:link href="http://localhost/myproject/wordpress/chao-moi-nguoi/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ngocson12.github.io/Shop/chao-moi-nguoi/</link>
+	<link>http://ngocson12.github.io/Shop/chao-moi-nguoi/</link>
 	<description></description>
 	<lastBuildDate>Sun, 04 Sep 2022 16:46:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>

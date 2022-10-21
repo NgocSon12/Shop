@@ -12,13 +12,13 @@
 	<title>
 	Comments on: Knife &#8211; Oak	</title>
 	<atom:link href="http://localhost/myproject/wordpress/product/knife-oak/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ngocson12.github.io/Shop/product/knife-oak/</link>
+	<link>http://ngocson12.github.io/Shop/product/knife-oak/</link>
 	<description></description>
 	<lastBuildDate>Thu, 06 Oct 2022 02:54:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>

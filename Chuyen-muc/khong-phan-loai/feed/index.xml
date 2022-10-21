@@ -13,7 +13,7 @@
 <channel>
 	<title>Chưa phân loại &#8211; My wordpress</title>
 	<atom:link href="http://localhost/myproject/wordpress/Chuyen-muc/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ngocson12.github.io/Shop</link>
+	<link>http://ngocson12.github.io/Shop</link>
 	<description></description>
 	<lastBuildDate>Sun, 04 Sep 2022 16:46:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://ngocson12.github.io/Shop/chao-moi-nguoi/</link>
-					<comments>https://ngocson12.github.io/Shop/chao-moi-nguoi/#respond</comments>
+		<link>http://ngocson12.github.io/Shop/chao-moi-nguoi/</link>
+					<comments>http://ngocson12.github.io/Shop/chao-moi-nguoi/#respond</comments>
 		
 		<dc:creator><![CDATA[TruongNgocSon]]></dc:creator>
 		<pubDate>Sun, 04 Sep 2022 16:46:47 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://ngocson12.github.io/Shop/?p=1</guid>
+		<guid isPermaLink="false">http://ngocson12.github.io/Shop/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ngocson12.github.io/Shop/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>http://ngocson12.github.io/Shop/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
